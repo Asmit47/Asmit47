@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmit Kaushal</h1>
 <h3 align="center">Machine Learning student</h3>
 
-- 🔭 I'm currently working on [Vani](https://github.com/Asmit47/vani-speak-ai.git)
+- 🔭 I'm currently working on [Vani](https://github.com/Asmit47/VaniAI)
 - 🌱 I'm currently learning **Machine Learning, Agentic AI**
 - 📫 How to reach me **asmitkaushal47@gmail.com**
 
