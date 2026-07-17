@@ -1,66 +1,96 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+I'm+Asmit+Kaushal;Training+models.+Breaking+things.+Fixing+them.)
+# Hi, I'm Asmit Kaushal 👋
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+Production+AI+Systems;LLM+Engineering+%7C+AI+Agents;Machine+Learning;Always+Shipping)
 
 ![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-**BTech CSE · Machine Learning & Agentic AI**
+**B.Tech CSE • AI Agents • LLM Engineering • Machine Learning**
+
+Building production-ready AI applications with modern LLMs, agent frameworks, and scalable backend systems.
 
 </div>
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-**[Scratch_ML_Models](https://github.com/Asmit47/Scratch_ML_Models)** — ML algorithms built from scratch in Python  
-`Jupyter Notebook` · `Pure NumPy` · `Core ML foundations`
+### 🧠 [Nexus](https://github.com/Asmit47/Nexus)
 
-**[forest_prediction](https://github.com/Asmit47/forest_prediction)** — Algerian forest fire weather index predictor  
-`Jupyter Notebook` · `Classification` · `Real-world dataset`
+Production-grade AI assistant with memory, MCP integrations, multi-agent workflows and tool orchestration.
 
-**[Store_demand_predictor](https://github.com/Asmit47/Store_demand_predictor)** — Forecasting store demand with ML  
-`Jupyter Notebook` · `Time Series` · `Regression`
-
-**[KaggleProjects](https://github.com/Asmit47/KaggleProjects)** — ML competition notebooks & experiments  
-`Jupyter Notebook` · `Supervised & Unsupervised Learning`
-
-**[VaniAI](https://github.com/Asmit47/VaniAI)** — AI-powered voice/language application  
-`TypeScript` · `Agentic AI` · `Full-stack AI app`
+`Python` • `LangGraph` • `LangChain` • `FastAPI` • `Mem0` • `MCP`
 
 ---
 
-### 🛠️ Stack
+### 🛡 [HoneyPotScamBot](https://github.com/Asmit47/HoneyPotScamBot)
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,typescript,mysql,git,docker,vscode" />
+AI-powered cybersecurity project for scam detection and automated investigation.
 
-`Python` · `Scikit-Learn` · `TensorFlow` · `TypeScript` · `MySQL` · `Git` · `Docker` · `VSCode`
+`Python` • `FastAPI` • `LLMs`
 
 ---
 
-### 📊 GitHub Stats
+### 🎙 [VaniAI](https://github.com/Asmit47/VaniAI)
+
+Voice-first AI application built with a modern full-stack architecture.
+
+`TypeScript` • `React` • `Node.js`
+
+---
+
+### 📈 [Store Demand Predictor](https://github.com/Asmit47/Store_demand_predictor)
+
+End-to-end machine learning pipeline for retail demand forecasting.
+
+`Python` • `Scikit-Learn` • `XGBoost`
+
+---
+
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,fastapi,docker,postgres,mysql,mongodb,sqlite,git,github,vscode,linux" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mem0-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asmit47&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asmit47&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asmit47&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit47&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Asmit47&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=0d1117)
+<img src="https://streak-stats.demolab.com?user=Asmit47&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🔗 Links
-
-[![LinkedIn](https://img.shields.io/badge/asmitkaushal47-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmitkaushal47)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/Asmit47)
-[![Instagram](https://img.shields.io/badge/@asmit-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
-[![Gmail](https://img.shields.io/badge/asmitkaushal47@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asmitkaushal47@gmail.com)
-
----
+## 📫 Connect
 
 <div align="center">
-<sub>Building my models, one commit at a time 🤖</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmitkaushal47)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Asmit47)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmitkaushal47@gmail.com)
+
 </div>
