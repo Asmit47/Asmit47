@@ -6,7 +6,7 @@
 
 ![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-**B.Tech CSE • AI Agents • LLM Engineering • Machine Learning**
+**AI Agents • LLM Engineering • Machine Learning**
 
 Building production-ready AI applications with modern LLMs, agent frameworks, and scalable backend systems.
 
@@ -16,11 +16,10 @@ Building production-ready AI applications with modern LLMs, agent frameworks, an
 
 ## 🚀 Featured Projects
 
-### 🧠 [Nexus](https://github.com/Asmit47/Nexus)
+### 🧠 [Harvie](https://github.com/Asmit47/Harvie)
 
-Production-grade AI assistant with memory, MCP integrations, multi-agent workflows and tool orchestration.
-
-`Python` • `LangGraph` • `LangChain` • `FastAPI` • `Mem0` • `MCP`
+A personal AI assistant that learns your personality and works the way you do.
+`Python` • `LangGraph` • `PostgreSQL` • `FastAPI` • `Supermemory` • `MCP`
 
 ---
 
@@ -29,14 +28,6 @@ Production-grade AI assistant with memory, MCP integrations, multi-agent workflo
 AI-powered cybersecurity project for scam detection and automated investigation.
 
 `Python` • `FastAPI` • `LLMs`
-
----
-
-### 🎙 [VaniAI](https://github.com/Asmit47/VaniAI)
-
-Voice-first AI application built with a modern full-stack architecture.
-
-`TypeScript` • `React` • `Node.js`
 
 ---
 
@@ -62,7 +53,6 @@ End-to-end machine learning pipeline for retail demand forecasting.
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MCP-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mem0-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
 </p>
